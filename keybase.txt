@@ -1,1 +1,68 @@
-Keybase proof
+==================================================================
+https://keybase.io/jpk236
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jpk236.com
+  * I am jpk236 (https://keybase.io/jpk236) on keybase.
+  * I have a public key with fingerprint 5EB8 5E31 339B D9AF 66F2  2922 865E 9AF7 E371 D63B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015fa5b0338fa1a16387e4d59587e290aa0c243c95dd3b3cd1559cadcb19dce5ae0a",
+            "fingerprint": "5eb85e31339bd9af66f22922865e9af7e371d63b",
+            "host": "keybase.io",
+            "key_id": "865e9af7e371d63b",
+            "kid": "01015fa5b0338fa1a16387e4d59587e290aa0c243c95dd3b3cd1559cadcb19dce5ae0a",
+            "uid": "878d13173f4c620ea1761dfab9cee219",
+            "username": "jpk236"
+        },
+        "service": {
+            "hostname": "jpk236.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473790364,
+    "expire_in": 157680000,
+    "prev": "957de8801611ed11c9e4d7b768c35fe6c62e4ff13c1931b4c0108431d25a7f54",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJNSFRRFJ6ptJwoNShDF8Hrh4LJ3n33/U61MEmIalFEWZnTfffeN75m
+nDfOvHEatKCUop9VVlRYYFPQnyBIP+pCsygqqKTQDAshFV2Ui0oNF3af1SJo2d0c
+zrnf951zPs7jeTNdHnfq6djCQE3mhPvFwzNx1653BfVVnG6RJOer4oJ0OtAQoTHb
+HzQJ5+N4wAPJQJLOQ6gaCCAgQ1WhIpE0iUVB4xHisSBCrEmEQB1iAiRJw4hgHWgE
+UwlRHnFezjDDARqNRM2wzWQlqqsShQBCTScaMmTZEARNEFRZoixVKFQAkaHOiGVW
+zGGw4XQUo/mmxWos8U+P9w/8f547/quPohIAgQINEcsCTxFQZEAMpGuYUgFoDjBG
+o2FUThn6QCQoQJk75OVYrdLE1LHV2eOv/3xslTNeJGrZFrZCrF5m2xGfQ7OTEQeX
+oLr/t4JfN8OEWcgIlTQaM60w5wMMiW3TkQSiAhWNh7Lo5ejBiBmlftNBSIqs8uw5
+bWglk9QkhVBV5YEMACUAYI15ougMhqFkUJltR0XDABADDQJdxMxIVYSACBJSDEnk
+nJ0qwhbnY51sFGCSMTMQRnY8SrlDnR0ls1xujys9bYZzWi5PRtafg7vVOcdV2572
+pHdwS2bs427P2xr37MLjN5ufTV6crH3SHKrZrpw91tbyJa90aqy4d/hlroCTPSUV
+2eut2/fym7oSl1YK7cWP3s+ffL1zoOjFlXNZ5wa1FT3yEOXvdlRlrNl7uudHa/Xb
+lqJ9Sy7cDxe0mrmr3qS2nV9Sl3aiW7x++euzzY2FRt+3NzkjJ3rnuh7kzXEXFB5v
+2js67upevnJHXTJnIHpz0YLnpcPf+/vXtjQ0eINb8Hh/+tL8o6e6mj+Nra4beZWb
+GEEfLrVm7z+yoX5dX0OoaOPEsra8O5mj1e7U4hWW3TJ+eE/w04305rVXG+/Vn4yz
+G4wkaoc3fZ5KXTvbtXX50JGfbhREyQ==
+=0njr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jpk236
+
+==================================================================
